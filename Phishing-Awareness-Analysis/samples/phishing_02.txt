@@ -1,0 +1,11 @@
+FROM: Delivery Service <delivery-update@example.net>
+SUBJECT: Action Required: Delivery Fee
+
+Your package could not be delivered because a small delivery
+fee is still pending. Pay the fee within 24 hours to avoid
+returning the package.
+
+Payment link:
+https://delivery-payment.example/confirm
+
+Please complete the payment immediately.

@@ -1,0 +1,14 @@
+FROM: HR Department <hr@example.com>
+SUBJECT: Office Holiday Schedule
+
+Hello Team,
+
+The office holiday schedule for this month is attached to the
+internal employee portal. Please review the schedule when you
+have time.
+
+If you have questions, contact the HR department through the
+normal internal contact channel.
+
+Regards,
+HR Department

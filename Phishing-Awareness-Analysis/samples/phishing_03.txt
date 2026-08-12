@@ -1,0 +1,10 @@
+FROM: Rewards Center <winner@example.net>
+SUBJECT: Congratulations! You Won a Prize
+
+Congratulations! You have been selected to receive a $1,000 reward.
+
+Claim your prize now:
+https://short.example/claim123
+
+You must provide your full name, phone number, and account
+information to complete the claim.

@@ -1,0 +1,11 @@
+FROM: IT Support <it-support@micr0soft-security.example>
+SUBJECT: URGENT — Your Account Will Be Suspended
+
+Your corporate account has been flagged for unusual activity.
+You must verify your password immediately or your account will
+be permanently suspended within 2 hours.
+
+Verify your account here:
+https://micr0soft-security.example/login
+
+Do not ignore this message.
